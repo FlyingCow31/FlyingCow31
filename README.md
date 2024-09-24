@@ -1,7 +1,7 @@
 💪 FlyingCow31 here !
 A random guy but not so random in fact, everyone knows him: he is Mr.everyone. 
 
-**I'm learning HTML, CSS and JS to be a web developer. I'm also interested in discord bot development and minecraft servers configuration.**
+**I'm learning game development ! I'm also interested in discord bot development and minecraft servers configuration.**
 - 💻 I like playing minecraft, CS:GO and some random games.
 - 🤷‍♂️ I will post all my projects here, if you have a piece of advice for me, you can send me a message! 
 - ✅✨I'm interested in development, business, fitness and more generaly self-improvement. 
