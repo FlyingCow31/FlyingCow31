@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V0148C5L) 
+
 💪 FlyingCow31 here !
 A random guy but not so random in fact, everyone knows him: he is Mr.everyone. 
 
@@ -10,6 +12,8 @@ A random guy but not so random in fact, everyone knows him: he is Mr.everyone.
 
 😄 Pronouns: he/him
 > Reach me: @gael.tournier (discord); gael.tournier32@gmail.com (email)
+
+You can support me on Ko-Fi if you like what I do ! 
 <!---
 FlyingCow31/FlyingCow31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
