@@ -14,7 +14,7 @@
 
 
 # FlyingCow32 here! 💪
-I'm a random guy but not so random in fact, everyone knows him under the name "Mr.Everyone". 
+I'm a random guy but not so random in fact, everyone knows hme under the name "Mr.Everyone". 
 
 **I'm learning game development ! I'm also interested in discord bot development and minecraft server configuration !**
 
