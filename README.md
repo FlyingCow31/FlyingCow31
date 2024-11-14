@@ -63,6 +63,6 @@ We are a group of developers which makes websites, minecraft plugins, discord bo
 You can also check our [website](https://www.epitygmata.fr) if you're interested ! 
 
 
-[![signaturewbackground.png](https://i.postimg.cc/sgj945Lk/signaturewbackground.png)](https://postimg.cc/ZCQdTv4H)
+[![signaturewbackground.png](https://i.postimg.cc/3xNQZ4V2/croppedbanner.jpg)](https://postimg.cc/vcJKYBQm)
 
 
