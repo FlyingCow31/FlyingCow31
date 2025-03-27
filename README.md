@@ -14,12 +14,9 @@
 
 
 # FlyingCow32 here! 💪
-I'm a random guy but not so random in fact, everyone knows hme under the name "Mr.Everyone". 
+I'm a random guy but not so random in fact, everyone knows him under the name "Mr.Everyone". 
 
 **I'm learning game development ! I'm also interested in discord bot development and minecraft server configuration !**
-
-
-
 
 
 
@@ -27,7 +24,7 @@ I'm a random guy but not so random in fact, everyone knows hme under the name "M
 * 💻 I like playing minecraft, CS2 (RIP CSGO ⚰) and some random games (including mines). 
 * 🤷‍♂️ I will post all my projects here, if you have a piece of advice for me, you can send me a message!
 * ✅✨I'm interested in development, business, fitness and more generaly self-improvement.
-
+* 🐱‍🏍 I'm going to Ireland next year ! I'll be studying English literature and gaelic as an Erasmus student.
 
 ## 🛠 My Skills
 - HTML/CSS 
@@ -39,7 +36,7 @@ I'm a random guy but not so random in fact, everyone knows hme under the name "M
 
 ## ✨ Random stuff
 **"In order to reach heaven, the tree must plant his roots throught hell."** - idk i heard it on youtube 
-
+> I try to be consistent but always end up quitting because I don't find any good unity/C# course for what I want, if you have any suggestions, feel free to reach up to me.
 😄 Pronouns: he/him
 
 
@@ -55,7 +52,7 @@ Contributions are always welcome!
 * /!\ All PRs with no explaination will be deleted, i'm here to learn I don't care about my issues being fixed ! 
 
 ## My contributions : 
-I'm the direct owner of EPITYGMATA. 
+I'm the direct owner of EPITYGMATA/EPI Studios. 
 
 We are a group of developers which makes websites, minecraft plugins, discord bot and discord servers. If you wish to order or to check out what we can do, just check our 
 [github](https://github.com/Epitygmata) !
