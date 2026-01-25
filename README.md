@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS, Web development and desktop App development**
 
-- 📝 I regularly write articles on [Linkedin](Linkedin: https://www.linkedin.com/in/gael-tournier32/)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/gael-tournier32/)
 
 - 💬 Ask me about **all of my contributions and projects !**
 
