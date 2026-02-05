@@ -1,17 +1,9 @@
-<h1 align="center">🚀Here he comes: Gaël !</h1>
+<h1 align="center">Gaël Tournier 🎉</h1>
 <h3 align="center">Web/Apps developper && President of EPI STUDIO</h3>
 
-- 🔭 I’m currently working in [EPI STUDIO](https://github.com/EPI-Studios)
+- 20 Years old Web developer, I mainly work in Epi Studio, the non-profit development studio that I created!
+- My specialities are HTML/CSS and JS. You can find all the details of my skills on my CV.
 
-- 🌱 I’m currently learning **JS, Web development and desktop App development**
-
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/gael-tournier32/)
-
-- 💬 Ask me about **all of my contributions and projects !**
-
-- 📫 How to reach me **gael.tournier@epistudios.fr**
-
-- ⚡ Fun fact **I am french, But I live in Ireland !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +14,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+# 👀 Did my profile catch your eye ? 
+- You can know more about me and my projects on my [website](https://gaeltournier.dev) 🎉
 
 # Contributing
 
